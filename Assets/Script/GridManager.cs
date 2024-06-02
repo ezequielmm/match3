@@ -2,7 +2,7 @@
 using System.Collections;
 using Holoville.HOTween;
 
-public class Main : MonoBehaviour
+public class GridManager : MonoBehaviour
 {
 
     public GameObject _indicator;//The indicator to know the selected tile
